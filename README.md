@@ -1,2 +1,2 @@
 # angela
-Estudiante de ingenieria en sistemas computacionaled
+Estudiante de ingenieria en sistemas computacionales
